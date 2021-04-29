@@ -11,3 +11,14 @@
                 01-03-01-07 toString方法的重写实现.vep
                 01-03-01-08 姓名作为基准的重写实现.vep
                 01-03-01-09 equals方法和hashCode方法的生成.vep
+    01-03-01-11 Integer类的概念和构造方式.vep
+                01-03-01-12 Integer类的装箱和拆箱机制.vep
+                01-03-01-13 Integer类的常用方法.vep
+                01-03-01-14 Double类的概念和使用.vep
+                01-03-01-15 Boolean类的概念和使用.vep
+                01-03-01-16 Character类的概念和使用.vep
+                01-03-01-17 包装类的使用总结.vep
+                01-03-01-18 Math类的概念和使用.vep
+                01-03-01-19 BigDecimal类的概念和使用.vep
+                01-03-01-20 BigInteger类的概念和使用.vep
+                01-03-01-21 任务总结.vep
